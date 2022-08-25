@@ -1,4 +1,4 @@
-package ru.study.forkjoin;
+package ru.study.forkjoin.node;
 
 import java.util.Collection;
 

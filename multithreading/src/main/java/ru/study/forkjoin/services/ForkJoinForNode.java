@@ -1,6 +1,9 @@
-package ru.study.forkjoin;
+package ru.study.forkjoin.services;
 
 import lombok.extern.slf4j.Slf4j;
+import ru.study.forkjoin.node.Node;
+import ru.study.forkjoin.node.NodeImpl;
+import ru.study.forkjoin.node.ValueSumCounter;
 
 import java.util.concurrent.ForkJoinPool;
 
